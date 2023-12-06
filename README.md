@@ -48,21 +48,59 @@ This repository contains the source code for a single-page e-commerce applicatio
 ...
 
 
-## Desktop View
+## Homepage- Desktop and mobile view
 
-![Desktop View](link-to-desktop-screenshot)
+ <table>
+  <thead>
+  <tr>
+  <td>Large Screen</td>
+  <td>Small Screen</td>
+  </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td><img src="https://imgur.com/3y902ck.jpg" alt="Large Screen" /></td>
+      <td><img src="https://i.imgur.com/LB91C3o.jpg" alt="Small Screen" /></td>
+  </tr>
+   </tbody>
+  </table>
 
- 
+ ## ProductDetails page- Desktop and mobile view
 
-## Tablet View
+ <table>
+  <thead>
+  <tr>
+  <td>Large Screen</td>
+  <td>Small Screen</td>
+  </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td><img src="https://imgur.com/S12Mz9K.jpg" alt="Large Screen" /></td>
+      <td><img src="https://imgur.com/C5Uv7Ay.jpg" alt="Small Screen" /></td>
+  </tr>
+   </tbody>
+  </table>
 
-![Tablet View](link-to-tablet-screenshot)
+  ## SearchPage- Desktop and mobile view
 
- 
-
-## Mobile View
-
-![Mobile View](link-to-mobile-screenshot)
+ <table>
+  <thead>
+  <tr>
+  <td>Large Screen</td>
+  <td>Small Screen</td>
+  </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td><img src="https://imgur.com/L3LaNJj.jpg" alt="Large Screen" /></td>
+      <td><img src="https://imgur.com/37LHmdz.jpg" alt="Small Screen" /></td>
+  </tr>
+   </tbody>
+  </table>
 
  
  
