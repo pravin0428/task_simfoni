@@ -102,7 +102,25 @@ This repository contains the source code for a single-page e-commerce applicatio
    </tbody>
   </table>
 
- 
+   ## HomePage , ProductDetails , SearchPage- tablet view
+
+ <table>
+  <thead>
+  <tr>
+  <td>Home Page</td>
+  <td>Product Details Page</td>
+  <td>Search Page</td>
+  </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td><img src="https://imgur.com/mzzmcv2.jpg" alt="Large Screen" /></td>
+      <td><img src="https://imgur.com/38Ljghl.jpg" alt="Small Screen" /></td>
+      <td><img src="https://imgur.com/BpvTj4p.jpg" alt="Small Screen" /></td>
+  </tr>
+   </tbody>
+  </table>
  
 
 ## Bonus Points
